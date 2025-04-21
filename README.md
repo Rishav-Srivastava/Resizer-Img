@@ -76,6 +76,21 @@ Resizer-img works on all modern browsers including:
 
 © 2025 Rishav Srivastava - All Rights Reserved
 
-This project and its content are the exclusive property of Rishav Srivastava and are protected by copyright laws. Unauthorized copying, redistribution, or use of any part of this project without express written permission from Rishav Srivastava is strictly prohibited.
+INFONIX CLOUD ____ https://infonixcloud.vercel.app
 
-For permissions or inquiries, please contact Rishav Srivastava.
+mail- infonixcloud@gmail.com
+
+
+🌐 Welcome to Infonix Cloud – Where Ideas Meet Innovation! 🚀
+
+Are you ready to turn your vision into a powerful digital experience? At Infonix Cloud, we specialize in bringing brands to life through cutting-edge technology and creative solutions.
+
+💡 Whether you're a startup, small business, or growing enterprise, we provide:
+✅ Custom Website Development
+✅ Android & Web App Development
+✅ Smooth Payment Gateway Integration
+✅ SEO & Digital Marketing Strategies
+✅ Frontend & Backend Solutions
+✅ High-converting Landing Pages
+
+We don’t just build websites and apps – we create experiences that engage, convert, and grow your business.
